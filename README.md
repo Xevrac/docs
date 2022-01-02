@@ -1,2 +1,2 @@
-# docs
+# Welcome
 Information repository

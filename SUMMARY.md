@@ -21,6 +21,6 @@
 * [OzNode](projects/oznode/README.md)
   * [oznode.xevrac.com](https://oznode.xevrac.com)
 
-## BLOG
+## EXTRAS
 
-* [2021](blog/2021.md)
+* [2021](extras/2021.md)

@@ -1,0 +1,32 @@
+baseURL = "/"
+title = "xevrac_docs"
+description = "Xevrac's information repository"
+
+enableGitInfo = true
+
+contentDir = "content"
+publishdir = "dist"
+
+[params]
+copyright = "Xevrac"
+github_repo = "https://github.com/Xevrac/docs"
+algolia_docsearch = false
+offlineSearch = true
+
+[params.ui]
+navbar_logo = true
+
+[params.ui.feedback]
+enable = true
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "dracula"
+  [markup.goldmark.renderer]
+    unsafe = true

@@ -1,5 +1,11 @@
+# Exclude folder
+public/
 node_modules
 resources/_gen
 hugo
 hugo.exe
 dist
+ 
+# OS
+[Tt]humbs.db
+.DS_Store

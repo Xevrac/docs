@@ -1,0 +1,14 @@
+name: "ClientChatManager:IncomingMessage"
+type: hook
+
+params:
+  message:
+    type: string
+  playerId:
+    type: int
+  recipientMask:
+    type: int
+  channelId:
+    type: ChatChannelType
+  isSenderDead:
+    type: bool

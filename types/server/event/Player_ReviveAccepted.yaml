@@ -1,0 +1,9 @@
+name: "Player:ReviveAccepted"
+type: event
+
+params:
+  player:
+    type: Player
+  reviver:
+    type: Player
+    nullable: true

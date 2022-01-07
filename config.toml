@@ -2,6 +2,8 @@ baseURL = "/"
 title = "xevrac_docs"
 description = "Xevrac's information repository"
 
+theme = ["docsy"]
+
 enableGitInfo = true
 
 contentDir = "content"

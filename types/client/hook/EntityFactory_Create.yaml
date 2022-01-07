@@ -1,0 +1,12 @@
+name: "EntityFactory:Create"
+type: hook
+
+params:
+  entityData:
+    type: DataContainer
+  transform:
+    type: LinearTransform
+
+returns:
+  type: Entity
+  nullable: true

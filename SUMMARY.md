@@ -1,24 +1,24 @@
 # Table of contents
 
-* [📘 Welcome](README.md)
+* [📘 Welcome](content/_index.md)
 
 ## Guides
 
-* [Hidden & Dangerous 2](guides/hidden-and-dangerous-2/README.md)
-  * [Fixing Multiplayer](guides/hidden-and-dangerous-2/fixing-multiplayer.md)
-  * [Graphics Modification](guides/hidden-and-dangerous-2/graphics-modification.md)
+* [Hidden & Dangerous 2](content/guides/hidden-and-dangerous-2/_index.md)
+  * [Fixing Multiplayer](content/guides/hidden-and-dangerous-2/fixing-multiplayer.md)
+  * [Graphics Modification](content/guides/hidden-and-dangerous-2/graphics-modification.md)
 
 ## Projects
 
-* [Xevrac](projects/xevrac/README.md)
+* [Xevrac](content/projects/xevrac/_index.md)
   * [xevrac.com](https://xevrac.com)
-* [Xevnet](projects/xevnet/README.md)
+* [Xevnet](content/projects/xevnet/_index.md)
   * [gaming.xevrac.com](https://gaming.xevrac.com)
-* [TSExpansion](projects/tsexpansion/README.md)
+* [TSExpansion](content/projects/tsexpansion/_index.mdd)
   * [tse.xevrac.com](https://tse.xevrac.com)
-* [Northwest Crypto](projects/northwest-crypto/README.md)
+* [Northwest Crypto](content/projects/northwest-crypto/_index.md)
   * [nwc.xevrac.com](https://nwc.xevrac.com)
-* [OzNode](projects/oznode/README.md)
+* [OzNode](content/projects/oznode/_index.md)
   * [oznode.xevrac.com](https://oznode.xevrac.com)
 
 ## EXTRAS

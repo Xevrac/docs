@@ -1,2 +1,0 @@
-# Northwest Crypto
-

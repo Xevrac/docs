@@ -1,0 +1,11 @@
+name: Hook
+type: class
+
+properties:
+  priority:
+    type: int
+    readOnly: true
+
+methods:
+  -
+    name: Uninstall

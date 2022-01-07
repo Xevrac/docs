@@ -1,0 +1,21 @@
+name: DebugData
+type: class
+
+constructors:
+  -
+
+properties:
+  debugTexture:
+    type: TextureAsset
+    nullable: true
+  fullscreen:
+    type: bool
+  enable:
+    type: bool
+
+methods:
+  -
+    name: Clone
+    returns:
+      type: DebugData
+

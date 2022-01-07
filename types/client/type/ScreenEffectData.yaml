@@ -1,0 +1,28 @@
+name: ScreenEffectData
+type: class
+
+constructors:
+  -
+
+properties:
+  screenEffectParams:
+    type: Vec4
+  frameType:
+    type: ScreenEffectFrameType
+  shader:
+    type: SurfaceShaderBaseAsset
+    nullable: true
+  frameWidth:
+    type: float
+  outerFrameOpacity:
+    type: float
+  innerFrameOpacity:
+    type: float
+  angle:
+    type: float
+
+methods:
+  -
+    name: Clone
+    returns:
+      type: ScreenEffectData

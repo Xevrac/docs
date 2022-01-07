@@ -1,0 +1,23 @@
+name: VignetteData
+type: class
+
+constructors:
+  -
+
+properties:
+  scale:
+    type: Vec2
+  color:
+    type: Vec3
+  exponent:
+    type: float
+  opacity:
+    type: float
+  enable:
+    type: bool
+
+methods:
+  -
+    name: Clone
+    returns:
+      type: VignetteData

@@ -1,0 +1,17 @@
+name: WindData
+type: class
+
+constructors:
+  -
+
+properties:
+  windDirection:
+    type: float
+  windStrength:
+    type: float
+
+methods:
+  -
+    name: Clone
+    returns:
+      type: WindData

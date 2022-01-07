@@ -1,0 +1,34 @@
+---
+title: Projects
+description: Index of my projects past and present.
+weight: 1
+---
+
+In this section you can find links and general information relating to my projects I've worked on both past and present.
+
+## Index:
+
+---
+
+### [xevrac](/projects/xevrac)  
+The main page for hosting my socials, brief bio and link to access this documentation repo.
+
+---
+
+### [xevnet](/projects/xevnet)  
+A platform comprising of gaming, media related content and multiplayer servers.
+
+---
+
+### [TSExpansion](/projects/tse)  
+Mod for Command and Conquer: Tiberian Sun, based off of the TSClient project.
+
+---
+
+### [Northwest Crypto](/projects/nwc)  
+A community driven crypto/blockchain enthusiast group.
+
+---
+
+### [OzNode](/projects/oznode)  
+Blockchain node provider project supporting various crypto assets. Initially hosting a Cardano Node to support it's infrastructure however has had to retire/hiatus due to resourcing constraints. - *We will be back!*

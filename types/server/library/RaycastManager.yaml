@@ -1,0 +1,76 @@
+name: RaycastManager
+type: library
+
+methods:
+  -
+    name: DetailedRaycast
+    params:
+      from:
+        type: Vec3
+      to:
+        type: Vec3
+      maxHits:
+        type: int
+      materialFlags:
+        type: MaterialFlags
+      flags:
+        type: RayCastFlags
+    returns:
+      type: RayCastHit
+      table: true
+  -
+    name: CollisionRaycast
+    params:
+      from:
+        type: Vec3
+      to:
+        type: Vec3
+      maxHits:
+        type: int
+      materialFlags:
+        type: MaterialFlags
+      flags:
+        type: RayCastFlags
+    returns:
+      type: RayCastHit
+      table: true
+  -
+    name: DetailedLatencyRaycast
+    description: Perform a detailed mesh raycast while accounting for the provided network latency.
+    params:
+      latency:
+        type: float
+      from:
+        type: Vec3
+      to:
+        type: Vec3
+      maxHits:
+        type: int
+      materialFlags:
+        type: MaterialFlags
+      flags:
+        type: RayCastFlags
+    returns:
+      type: RayCastHit
+      table: true
+  -
+    name: CollisionLatencyRaycast
+    description: Perform a collision mesh raycast while accounting for the provided network latency.
+    params:
+      latency:
+        type: float
+      from:
+        type: Vec3
+      to:
+        type: Vec3
+      maxHits:
+        type: int
+      materialFlags:
+        type: MaterialFlags
+      flags:
+        type: RayCastFlags
+    returns:
+      type: RayCastHit
+      table: true
+
+

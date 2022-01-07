@@ -16,7 +16,7 @@ This website is dedicated to information and guides related to my projects I'm w
 Check out my projects both past and present.
 
 
-Learn something new!
+## Learn something new!
 
 ---
 

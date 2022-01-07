@@ -1,6 +1,0 @@
-name: "Player:Connected"
-type: event
-
-params:
-  player:
-    type: Player

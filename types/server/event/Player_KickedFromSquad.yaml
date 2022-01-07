@@ -1,8 +1,0 @@
-name: "Player:KickedFromSquad"
-type: event
-
-params:
-  player:
-    type: Player
-  squad:
-    type: SquadId

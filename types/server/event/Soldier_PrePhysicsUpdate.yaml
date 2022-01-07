@@ -1,8 +1,0 @@
-name: "Soldier:PrePhysicsUpdate"
-type: event
-
-params:
-  soldier:
-    type: SoldierEntity
-  deltaTime:
-    type: float

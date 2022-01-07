@@ -1,6 +1,0 @@
-name: "CapturePoint:Captured"
-type: event
-
-params:
-  capturePoint:
-    type: Entity

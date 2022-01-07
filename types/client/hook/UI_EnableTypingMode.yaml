@@ -1,6 +1,0 @@
-name: "UI:EnableTypingMode"
-type: hook
-
-params:
-  enable:
-    type: bool

@@ -1,9 +1,0 @@
-name: ToolTipType
-type: enum
-
-values:
-  AimAtTeamMateToolTip:
-    value: 1
-  AimAtEnemyToolTip:
-    value: 2
-

@@ -1,6 +1,0 @@
-name: "Vehicle:Unspawn"
-type: event
-
-params:
-  vehicle:
-    type: Entity

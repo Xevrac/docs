@@ -1,9 +1,0 @@
-name: CompressorChannelMode
-type: enum
-
-values:
-  CompressorChannelMode_Independent:
-    value: 0
-  CompressorChannelMode_Grouped:
-    value: 1
-

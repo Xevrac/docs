@@ -1,6 +1,0 @@
-name: "Player:Authenticated"
-type: event
-
-params:
-  player:
-    type: Player

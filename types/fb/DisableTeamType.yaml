@@ -1,9 +1,0 @@
-name: DisableTeamType
-type: enum
-
-values:
-  DttDisable:
-    value: 0
-  DttUnspawn:
-    value: 1
-

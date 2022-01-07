@@ -1,9 +1,0 @@
-name: ExpanderChannelMode
-type: enum
-
-values:
-  ExpanderChannelMode_Independent:
-    value: 0
-  ExpanderChannelMode_Grouped:
-    value: 1
-

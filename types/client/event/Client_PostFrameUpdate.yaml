@@ -1,6 +1,0 @@
-name: "Client:PostFrameUpdate"
-type: event
-
-params:
-  deltaTime:
-    type: float

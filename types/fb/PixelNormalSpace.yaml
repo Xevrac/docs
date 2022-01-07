@@ -1,7 +1,0 @@
-name: PixelNormalSpace
-type: enum
-
-values:
-  PnsTangent:
-    value: 0
-

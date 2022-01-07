@@ -1,9 +1,0 @@
-name: SpaceType
-type: enum
-
-values:
-  STBody:
-    value: 0
-  STWorld:
-    value: 1
-

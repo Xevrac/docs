@@ -1,8 +1,0 @@
-name: "Player:SuppressedEnemy"
-type: event
-
-params:
-  player:
-    type: Player
-  enemy:
-    type: Player

@@ -1,8 +1,0 @@
-name: NetSocketFamily
-type: enum
-
-values:
-  INET:
-    value: 0
-  INET6:
-    value: 1

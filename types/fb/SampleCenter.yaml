@@ -1,9 +1,0 @@
-name: SampleCenter
-type: enum
-
-values:
-  SampleCenter_Center:
-    value: 0
-  SampleCenter_TopLeft:
-    value: 1
-

@@ -1,8 +1,0 @@
-name: "Player:KitPickup"
-type: event
-
-params:
-  player:
-    type: Player
-  newCustomization:
-    type: DataContainer

@@ -1,9 +1,0 @@
-name: UIInterruptID
-type: enum
-
-values:
-  UIInterruptID_None:
-    value: 0
-  UIInterruptID_ControllerPull:
-    value: 1
-

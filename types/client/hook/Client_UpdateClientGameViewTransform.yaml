@@ -1,6 +1,0 @@
-name: "Client:UpdateClientGameViewTransform"
-type: hook
-
-params:
-  transform:
-    type: LinearTransform

@@ -1,9 +1,0 @@
-name: UICreditsTextType
-type: enum
-
-values:
-  SingleLine:
-    value: 0
-  MultiLine:
-    value: 1
-

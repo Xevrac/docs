@@ -1,6 +1,0 @@
-name: "Player:Killed"
-type: event
-
-params:
-  player:
-    type: Player

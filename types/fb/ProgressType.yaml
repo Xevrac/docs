@@ -1,7 +1,0 @@
-name: ProgressType
-type: enum
-
-values:
-  PT_CapturePointCooldown:
-    value: 0
-

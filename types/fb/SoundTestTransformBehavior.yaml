@@ -1,7 +1,0 @@
-name: SoundTestTransformBehavior
-type: enum
-
-values:
-  SoundTestTransformBehavior_Static:
-    value: 0
-

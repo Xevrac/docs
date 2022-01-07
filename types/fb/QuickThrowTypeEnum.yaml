@@ -1,9 +1,0 @@
-name: QuickThrowTypeEnum
-type: enum
-
-values:
-  QttHand:
-    value: 0
-  QttBag:
-    value: 1
-

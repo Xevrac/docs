@@ -1,6 +1,0 @@
-name: "Player:InstantSuicide"
-type: event
-
-params:
-  player:
-    type: Player

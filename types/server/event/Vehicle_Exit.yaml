@@ -1,8 +1,0 @@
-name: "Vehicle:Exit"
-type: event
-
-params:
-  vehicle:
-    type: Entity
-  player:
-    type: Player

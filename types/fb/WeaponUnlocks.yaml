@@ -1,7 +1,0 @@
-name: WeaponUnlocks
-type: enum
-
-values:
-  WeaponUnlocks_MaxAmount:
-    value: 7
-

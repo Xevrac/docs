@@ -1,6 +1,0 @@
-name: "Partition:Loaded"
-type: event
-
-params:
-  partition:
-    type: DatabasePartition

@@ -1,8 +1,0 @@
-name: "Player:SpawnAtVehicle"
-type: event
-
-params:
-  player:
-    type: Player
-  vehicle:
-    type: Entity

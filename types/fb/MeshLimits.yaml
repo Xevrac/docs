@@ -1,7 +1,0 @@
-name: MeshLimits
-type: enum
-
-values:
-  MaxMeshLodCount:
-    value: 5
-

@@ -1,9 +1,0 @@
-name: CustomizationConstants
-type: enum
-
-values:
-  MaxAttachedSockets:
-    value: 4
-  MaxVisualSockets:
-    value: 16
-

@@ -1,6 +1,0 @@
-name: "Player:Deleted"
-type: event
-
-params:
-  player:
-    type: Player

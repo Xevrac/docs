@@ -1,9 +1,0 @@
-name: PersonViewMode
-type: enum
-
-values:
-  PersonViewMode_FirstPerson:
-    value: 0
-  PersonViewMode_ThirdPerson:
-    value: 1
-

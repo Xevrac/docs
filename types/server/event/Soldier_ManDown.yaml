@@ -1,9 +1,0 @@
-name: "Soldier:ManDown"
-type: event
-
-params:
-  soldier:
-    type: SoldierEntity
-  inflictor:
-    type: Player
-    nullable: true

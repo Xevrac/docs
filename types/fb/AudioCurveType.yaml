@@ -1,7 +1,0 @@
-name: AudioCurveType
-type: enum
-
-values:
-  AudioCurveType_Spline:
-    value: 0
-

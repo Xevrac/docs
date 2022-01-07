@@ -1,9 +1,0 @@
-name: LimiterChannelMode
-type: enum
-
-values:
-  LimiterChannelMode_Independent:
-    value: 0
-  LimiterChannelMode_Grouped:
-    value: 1
-

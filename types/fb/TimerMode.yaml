@@ -1,9 +1,0 @@
-name: TimerMode
-type: enum
-
-values:
-  TimerMode_Repeating:
-    value: 0
-  TimerMode_SingleShot:
-    value: 1
-

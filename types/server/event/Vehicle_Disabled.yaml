@@ -1,6 +1,0 @@
-name: "Vehicle:Disabled"
-type: event
-
-params:
-  vehicle:
-    type: Entity

@@ -1,6 +1,0 @@
-name: "Player:Destroyed"
-type: event
-
-params:
-  player:
-    type: Player

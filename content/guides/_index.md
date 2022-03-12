@@ -12,3 +12,9 @@ In this section you can find everything you need to learn something new. Whether
 
 ### [Hidden & Dangerous 2](/guides/hd2)  
 All guides and mods pertaining to Hidden and Dangerous 2 can be found here.
+
+---
+
+### [Telstra Smart Modem Gen3](/guides/dna0332tls)  
+A teardown guide and some technical analysis of the dna0332tls product, manufactured by Technicolor.
+

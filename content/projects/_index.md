@@ -25,10 +25,10 @@ Mod for Command and Conquer: Tiberian Sun, based off of the TSClient project.
 
 ---
 
-### [Northwest Crypto](/projects/nwc)  
-A community driven crypto/blockchain enthusiast group.
+### [OzNode](/projects/oznode)  
+Blockchain node provider project supporting various crypto assets. Initially hosting a Cardano Node to support it's infrastructure however has had to go on hiatus due to resourcing constraints. - *We will be back!*
 
 ---
 
-### [OzNode](/projects/oznode)  
-Blockchain node provider project supporting various crypto assets. Initially hosting a Cardano Node to support it's infrastructure however has had to retire/hiatus due to resourcing constraints. - *We will be back!*
+### [NW Crypto](/projects/nwc)  
+A community driven crypto/blockchain enthusiast telegram group.

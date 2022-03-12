@@ -1,19 +1,19 @@
 ---
-title: Northwest Crypto
+title: NW Crypto
 description: A community driven crypto/blockchain enthusiast group.
-weight: 4
+weight: 5
 ---
 
-A community driven crypto/blockchain enthusiast group.
+A community driven crypto/blockchain enthusiast telegram group.
 
 ---
 
 ### Direct link:
 
-- ### [https://nwc.xevrac.com](https://nwc.xevrac.com)
+- ### [Telegram Invitation](https://t.me/+pYSaVHC5brRkZjg1)
 
 ---
 
 <br/>
 
-> Repo : [Private](https://github.com/Xevrac/)
+> Repo : [NA](https://xevrac.com)

@@ -6,6 +6,7 @@ hugo
 hugo.exe
 dist
 version.json
+.idea/*
  
 # OS
 [Tt]humbs.db

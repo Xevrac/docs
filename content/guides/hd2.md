@@ -6,7 +6,7 @@ weight: 2
 
 All guides and mods pertaining to Hidden and Dangerous 2 can be found below.
 
-> `This article is currently being written up. Hosting a multiplayer game section is incomplete!`
+> `Note: The 'Hosting a multiplayer game' section is 90% complete.`
 
 ---
 
@@ -51,13 +51,14 @@ If you don't complete this step you will receive a `'CD-KEY IN USE'` error when 
 
 ### Hosting a multiplayer game:
 
-In order to host a dedicated multiplayer match correctly, proceed with the following:
+In order to host a dedicated multiplayer match correctly in a Windows environment, proceed with the following:
 - Meet the following requirements.
-	- Understand basic Windows network configuration
-	- Router configuration experience
-	- Reliable internet connection
-	- Sound/Optimal upload speed
-	- A computer from `=>2008` is more than optimal
+  - Windows XP/Vista/7/8/10 (*Note: You cannot host using Windows Server edition(s) because the UPnP protocols are stripped out*)
+  - Understand basic Windows network configuration
+  - Router configuration experience
+  - Reliable internet connection
+  - Sound/Optimal upload speed
+  - A computer from `=>2008` is more than optimal
 
 <br/>
 
@@ -92,4 +93,10 @@ In order to host a dedicated multiplayer match correctly, proceed with the follo
 
 <b>ii.</b> It's not compulsory however strongly recommended to download the server manager. This program configures your Dedicated server parameters easily and saves them for later use.
 
-You can get it here, [HD2 Server Manager](https://xevrac.com).
+You can get it here, [HD2 Server Manager](https://gaming.xevrac.com/f/HD2ServerLauncher.zip).
+
+Further information on how to use this program is *tbd*, although experienced users can figure out the GUI as they go; more steps will be added in the future but the information in its current form is enough to get you running and familiarise yourself at your own pace.
+
+Goodluck! 
+
+If you run into any issues and would like some assistance, join our Discord via [Xevnet](https://gaming.xevrac.com) and shoot us a message.

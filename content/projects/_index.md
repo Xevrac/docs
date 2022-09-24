@@ -26,7 +26,7 @@ Mod for Command and Conquer: Tiberian Sun, based off of the TSClient project.
 ---
 
 ### [OzNode](/projects/oznode)  
-Blockchain node provider project supporting various crypto assets. Initially hosting a Cardano Node to support it's infrastructure however has had to go on hiatus due to resourcing constraints. - *We will be back!*
+Blockchain node provider project supporting various crypto assets. Initially hosting a Cardano Node to support it's infrastructure however OzNode is currently on hiatus as it's fate is currently undecided.
 
 ---
 

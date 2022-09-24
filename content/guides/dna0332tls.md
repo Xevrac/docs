@@ -6,8 +6,6 @@ weight: 3
 
 A teardown guide and some technical analysis of the dna0332tls product, manufactured by Technicolor.
 
-> `Note: Photos will be uploaded, check back later!`
-
 ---
 
 ## Note:
@@ -50,12 +48,14 @@ Key-points:
 - Due to the boot-loader difference, this device does not use the `*.rbi` filetype for it's firmware via CWMPD (TFTP) rather a `*.pkgt`.
 - Here is the captured cwmpd request from a live GET request: `http://fwstore.bdms.telstra.net/Technicolor_vcnt-8_20.4-319-RC4.2-RA-bootstrap/bcmVCNT-8_nand256_ubifs_update-r20.4-319-2-1-MR0-RA-BOOTSTRAP-signed.pkgtb`
 - Primary cwmpd request server (model-specific): `https://cobraxh.technicolor.cwmp.bdms.telstra.net/cwmp/cwmp#/`
+- The JM102 header for serial access does work and provides insight into BOOT-P. 
 
 Here are some related sources:
 
 - [tch-unhide](https://github.com/seud0nym/tch-gui-unhide/issues/74)
 - [hack-technicolor](https://github.com/hack-technicolor/hack-technicolor/issues/219)
 - [Whirlpool Forums](https://whrl.pl/Rgo7iw)
+- [hack-technicolor-BOOT-P](https://github.com/hack-technicolor/hack-technicolor/issues/219#issuecomment-1166396317)
 
 <br/>
 
@@ -63,7 +63,6 @@ Here are some related sources:
 
 ### Todo: 
 
-Untested/In progress work: 
+Untested/In progress work:
 
-- Test the JM102 header for serial access
 - Identify the Day0 CWMPD URI

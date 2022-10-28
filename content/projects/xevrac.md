@@ -1,15 +1,17 @@
 ---
 title: xevrac
-description: The main page for hosting my socials, brief bio and link to access this documentation repo.
+description: The landing page that briefly shows a bio, socials, and how to discover more projects.
 weight: 1
 ---
 
-The main page for hosting my socials, brief bio and link to access this documentation repo.
+The landing page that briefly shows a bio, socials, and how to discover more projects.
 
 ---
 
-### Direct link:
+### Direct links:
 
+- ### [https://xev.au](https://xev.au)
+- ### [https://xevrac.au](https://xevrac.au)
 - ### [https://xevrac.com](https://xevrac.com)
 
 ---

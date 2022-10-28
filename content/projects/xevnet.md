@@ -8,9 +8,10 @@ A platform comprising of gaming, media related content and multiplayer servers.
 
 ---
 
-### Direct link:
+### Direct links:
 
-- ### [https://gaming.xevrac.com](https://gaming.xevrac.com)
+- ### [https://xevnet.au](https://xevnet.au)
+- ### [https://gaming.xevrac.com](https://gaming.xevrac.com) - Deprecated
 
 ---
 

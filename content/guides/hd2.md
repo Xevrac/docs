@@ -6,7 +6,7 @@ weight: 2
 
 All guides and mods pertaining to Hidden and Dangerous 2 can be found below.
 
-> `Note: The 'Hosting a multiplayer game' section is 90% complete.`
+> `Note: The 'Hosting a multiplayer game' section is near completion.`
 
 ---
 
@@ -72,10 +72,12 @@ In order to host a dedicated multiplayer match correctly in a Windows environmen
 <br/>
 
 - Configure your router as follows where applicable.
-	- Ensure uPnP is turned *on*
-		- NAT Secure Mode: `off`
-		- NAT-PMP: `off`
-		- Data Model: `1`
+  - Ensure uPnP is turned *on*
+    - NAT Secure Mode: `off`
+    - NAT-PMP: `off`
+    - Data Model: `1`
+    - Port Forward Range: `UDP - 11001-11004` *(Connection Port | null | null | Query Port)*
+    - Port Forward SMC: `TCP - 2332` *(Server Manager Client)*
 
 <b>i.</b> Open Notepad as administrator and navigate to `C:\Windows\System32\drivers\etc\hosts`. You will need to add the following entries:
 
@@ -93,10 +95,10 @@ In order to host a dedicated multiplayer match correctly in a Windows environmen
 
 <b>ii.</b> It's not compulsory however strongly recommended to download the server manager. This program configures your Dedicated server parameters easily and saves them for later use.
 
-You can get it here, [HD2 Server Manager](https://gaming.xevrac.com/f/HD2ServerLauncher.zip).
+You can get it here, [HD2 Server Manager](https://xevnet.au/f/HD2ServerLauncher.zip).
 
-Further information on how to use this program is *tbd*, although experienced users can figure out the GUI as they go; more steps will be added in the future but the information in its current form is enough to get you running and familiarise yourself at your own pace.
+Further guidance on how to use this program is *tbd*, although experienced users can figure out the GUI as they go; more steps will be added in the future but the information in its current form is enough to get you running and familiarise yourself at your own pace.
 
 Goodluck! 
 
-If you run into any issues and would like some assistance, join our Discord via [Xevnet](https://gaming.xevrac.com) and shoot us a message.
+If you run into any issues and would like some assistance, join our Discord via [Xevnet](https://xevnet.au) and shoot us a message.

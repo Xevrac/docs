@@ -9,5 +9,5 @@ Guides that are outside of Xevnet's scope reside here. These are guides for unre
 
 ---
 
-### [Telstra Smart Modem Gen3](/guides/dna0332tls)
+### [Telstra Smart Modem Gen3](/other/dna0332tls)
 A teardown guide and some technical analysis of the dna0332tls product, manufactured by Technicolor.

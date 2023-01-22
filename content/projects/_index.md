@@ -10,13 +10,18 @@ In this section you can find links and general information relating to my projec
 
 ---
 
-### [xevrac](/projects/xevrac)  
+### [Xevrac](/projects/xevrac)  
 The main page for hosting my socials, brief bio and link to access this documentation repo.
 
 ---
 
-### [xevnet](/projects/xevnet)  
+### [Xevnet](/projects/xevnet)  
 A platform comprising of gaming, media related content and multiplayer servers.
+
+---
+
+### [Xevlink](/projects/xevlink)
+A simple link shortener.
 
 ---
 

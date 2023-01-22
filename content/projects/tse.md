@@ -1,7 +1,7 @@
 ---
 title: TSExpansion
 description: "Mod for Command and Conquer: Tiberian Sun, based off of the TSClient project."
-weight: 3
+weight: 4
 ---
 
 Mod for Command and Conquer: Tiberian Sun, based off of the TSClient project.

@@ -1,18 +1,20 @@
 ---
 title: Hidden & Dangerous 2
-description: Guides for Hidden & Dangerous 2.
-weight: 2
+description: A support article for Hidden & Dangerous 2.
+weight: 1
 ---
 
-All guides and mods pertaining to Hidden and Dangerous 2 can be found below.
-
-> `Note: The 'Hosting a multiplayer game' section is near completion.`
+Read all you need about Hidden & Dangerous 2's multiplayer below.
 
 ---
 
-## Note:
+> <b>Note:</b> The following information assumes you have a valid copy of `Hidden & Dangerous 2: Sabre Squardon` running on `v1.12.0` via non-Steam or Steam copy.
 
-The following information assumes you have a valid copy of `Hidden & Dangerous 2: Sabre Squardon` running on `v1.12.0` via non-Steam or Steam copy.
+---
+
+## Prerequisites:
+
+In order to join most HD2 servers, including Xevnet's; you need to download and install the `CMP v1.8`, from [Mod DB](https://www.moddb.com/games/hidden-dangerous-2/addons/cmp-v18).
 
 ---
 

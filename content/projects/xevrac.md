@@ -1,5 +1,5 @@
 ---
-title: xevrac
+title: Xevrac
 description: The landing page that briefly shows a bio, socials, and how to discover more projects.
 weight: 1
 ---
@@ -10,7 +10,6 @@ The landing page that briefly shows a bio, socials, and how to discover more pro
 
 ### Direct links:
 
-- ### [https://xev.au](https://xev.au)
 - ### [https://xevrac.au](https://xevrac.au)
 - ### [https://xevrac.com](https://xevrac.com)
 

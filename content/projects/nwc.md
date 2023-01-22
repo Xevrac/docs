@@ -1,7 +1,7 @@
 ---
 title: NW Crypto
 description: A community driven crypto/blockchain enthusiast group.
-weight: 5
+weight: 6
 ---
 
 A community driven crypto/blockchain enthusiast telegram group.
@@ -16,4 +16,4 @@ A community driven crypto/blockchain enthusiast telegram group.
 
 <br/>
 
-> Repo : [NA](https://xevrac.com)
+> Repo : [NA](#)

@@ -1,12 +1,12 @@
 ---
 title: Welcome
-description: xevrac_docs is a repository of information for my projects, guides and more.
+description: Xevnet_Docs is a documentation repository containing guides, support articles for the Xevnet community. Additionally, it is home to other guides and projects from Xevrac.
+
 ---
 
-Welcome to xevrac_docs!
+Welcome to Xevnet_Docs!
 
-This website is dedicated to information and guides related to my projects I'm working on, or other various topics/works i've scoped out.
-
+This is a documentation repository containing guides, support articles for the Xevnet community. Additionally, it is home to other guides and projects from Xevrac.
 ## Want to see more?
 
 ---
@@ -22,4 +22,8 @@ Check out my projects both past and present.
 
 ### [Guides](/guides/)
 
-This category has everything you need to learn something new, whether it be hosting a game server, performing tweaks or mods of your own on something hardware/software related. Guides will be actively added so keep an eye out!
+In this section you can find everything you need to learn something new. Whether it be joining/hosting a game server, performing tweaks or modifications of your own.
+
+### [Other](/other/)
+
+Guides that are outside of Xevnet’s scope reside here. These are guides for unrelated hobbies or side-projects.

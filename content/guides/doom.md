@@ -48,7 +48,7 @@ In order to join multiplayer games you need the following.
 
 ### Doomseeker:
 
-> Note: Depending on your Operating System, Zandronum may not come bundled with Doomseeker and needs separate installation - see [prerequisites](/guides/doom/#prerequisites).
+> Note: Depending on your Operating System, Doomseeker may not come bundled with Zandronum and needs separate installation - see [prerequisites](/guides/doom/#prerequisites).
 
 <b>i.</b> Open `Doomseeker`, this is the multiplayer client for Zandronum. On initial launch it will recommend Configuration. Open Doomseeker's settings and configure the client. In short, you will need to point Doomseeker to Zandronum as the game-client. This is referred to as `'engine'` and `'path to executable'`.
 

@@ -18,3 +18,7 @@ An article explaining how to setup, configure, join HD2 matches or host them.
 ### [C&C: Generals Zero Hour](/guides/cnczh)
 A support guide on how to join our Command & Conquer: Generals Zero Hour matches using specialised programs.
 
+---
+
+### [Doom: Zandronum](/guides/doom)
+Install guide for Doom's modern engine Zandronum and multiplayer client, Doomseeker.

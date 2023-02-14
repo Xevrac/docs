@@ -22,7 +22,7 @@ In order to join multiplayer games you need the following.
   - <i>Optional: Have a <b>copy</b> of your install with the modification: [Mod DB - Zero Hour v2.0](https://www.moddb.com/mods/command-conquer-generals-version-20), as some matches are hosted using this mod.</i>
 - GenTool with version `v8.6` or greater - [Download](https://www.gentool.net/)
 - ZeroTier - [Download](https://www.zerotier.com/download/)
-  - <i>Plus the `NetworkID` for our network - To obtain the `NetworkID` you need to submit a request for an administrator to approve, and send you it directly. You can apply on our [website](https://xevnet.au/access), and select the subject `Private server passcode` plus your comment in the `justification` section.</i>
+  - <i>Plus the `NetworkID` for our network - To obtain the `NetworkID` you need to submit a request for an administrator to approve, and send you it directly. You can apply on our [website](https://xevnet.au/access), and select the subject `Server password` plus your comment in the `Notes` section of the request form.</i>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'C&C 3: Tiberium Wars'
 description: 'A support article for Command & Conquer 3: Tiberium Wars'
-weight: 2
+weight: 3
 ---
 
 A support article for Command & Conquer 3: Tiberium Wars.

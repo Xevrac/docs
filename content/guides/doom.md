@@ -1,7 +1,7 @@
 ---
 title: 'Doom: Zandronum'
 description: 'A support article for Zandronum, a multiplayer orientated port based off Skulltag.'
-weight: 3
+weight: 4
 ---
 
 A support article for Zandronum, a multiplayer orientated port based off Skulltag.

@@ -20,6 +20,7 @@ In order to join multiplayer games you need the following.
 
 - The latest version of the game installed - `v1.09`
   - Purchase a copy [here](https://store.steampowered.com/app/24790/).
+  - Download [Tiberium Wars Community Map Pack RC5v3](https://www.moddb.com/mods/tiberium-wars-community-map-pack-project/downloads/tiberium-wars-community-map-pack-rc5v3)
 - C&C: Online - Latest version - [Download](https://cnc-online.net/en/download/)
   - A `Revora ID` is required for online play - [Register an account](https://cnc-online.net/en/connect/register/)
 - UPnP is enabled on your network's router

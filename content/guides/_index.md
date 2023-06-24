@@ -20,10 +20,10 @@ A support guide on how to join our Command & Conquer: Generals Zero Hour matches
 
 ---
 
-### [Doom: Zandronum](/guides/doom)
-Install guide for Doom's modern engine Zandronum and multiplayer client, Doomseeker.
+### [C&C 3: Tiberium Wars](/guides/cnc3)
+A support guide on how to join our Command & Conquer 3: Tiberium Wars multiplayer matches.
 
 ---
 
-### [C&C 3: Tiberium Wars](/guides/cnc3)
-A support guide on how to join our Command & Conquer 3: Tiberium Wars multiplayer matches.
+### [Doom: Zandronum](/guides/doom)
+Install guide for Doom's modern engine Zandronum and multiplayer client, Doomseeker.

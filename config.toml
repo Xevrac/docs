@@ -1,6 +1,6 @@
 baseURL = "/"
 title = "Xevnet_Docs"
-description = "A Xevnet documentation repository."
+description = "Xevnet documentation repository."
 
 theme = ["docsy"]
 

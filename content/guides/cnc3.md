@@ -41,6 +41,12 @@ In order to join multiplayer games you need the following.
 
 ---
 
+### Install Multiplayer Map Pack:
+
+Download and run the `CNC3_MapPack_RC5v3.exe` installer and follow the prompts - [Tiberium Wars Community Map Pack RC5v3](https://www.moddb.com/mods/tiberium-wars-community-map-pack-project/downloads/tiberium-wars-community-map-pack-rc5v3)
+
+---
+
 ### Joining a multiplayer match:
 
 With `C&C: Online` installed - proceed to run `C&C 3: Tiberium Wars`. 

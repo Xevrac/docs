@@ -109,7 +109,7 @@ If you run into any issues and would like some assistance, join our Discord via 
 
 ### Recommended Mods:
 
-Xevnet recommends the following mods that provides some QoL (quality of life) improvements to the game without ruining the original experience. Lastly these mods are multiplayer compatible, they preserve the experience in a balanced way without providing unfair advantages of any kind. 
+Xevnet recommends the following mods that provide some quality of life improvements to the game. This selection has been chosen as they keep to the original experience. Lastly these mods are multiplayer compatible, they preserve the experience in a balanced way without providing unfair advantages of any kind. 
 - [Widescreen Fix](https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/hd2)
     - [HUD Fix Addon](https://www.nexusmods.com/hiddenanddangerous2courageunderfire/mods/6?tab=description)
 - [Coloured Inventory Icons](https://www.nexusmods.com/hiddenanddangerous2courageunderfire/mods/1)

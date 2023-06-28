@@ -45,6 +45,10 @@ In order to join multiplayer games you need the following.
 
 Download and run the `CNC3_MapPack_RC5v3.exe` installer and follow the prompts - [Tiberium Wars Community Map Pack RC5v3](https://www.moddb.com/mods/tiberium-wars-community-map-pack-project/downloads/tiberium-wars-community-map-pack-rc5v3)
 
+Download [C&C3_XN_Maps](https://xevnet.au/f/C&C3_XN_Maps.rar) - A collection of multiplayer maps.
+
+Extract the contents of C&C3_XN_Maps.rar into `C:\Users\%username%\AppData\Roaming\Command & Conquer 3 Tiberium Wars\Maps\`
+
 ---
 
 ### Joining a multiplayer match:

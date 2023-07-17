@@ -20,6 +20,7 @@ In order to join multiplayer games you need the following.
 
 - The latest version of the game installed - `v1.09`
   - Purchase a copy [here](https://store.steampowered.com/app/24790/).
+  - Download [Tiberium Wars Community Map Pack RC5v3](https://www.moddb.com/mods/tiberium-wars-community-map-pack-project/downloads/tiberium-wars-community-map-pack-rc5v3)
 - C&C: Online - Latest version - [Download](https://cnc-online.net/en/download/)
   - A `Revora ID` is required for online play - [Register an account](https://cnc-online.net/en/connect/register/)
 - UPnP is enabled on your network's router
@@ -37,6 +38,16 @@ In order to join multiplayer games you need the following.
 <b>iii.</b> A small window will open with some options, click on 'Hook' at the top context bar between Launch and Help.
 
 <b>iv.</b> From that menu, a dropdown will appear. Click on `C&C 3`, it should now have a tick next to it indicating it is hooked.
+
+---
+
+### Install Multiplayer Map Pack:
+
+Download and run the `CNC3_MapPack_RC5v3.exe` installer and follow the prompts - [Tiberium Wars Community Map Pack RC5v3](https://www.moddb.com/mods/tiberium-wars-community-map-pack-project/downloads/tiberium-wars-community-map-pack-rc5v3)
+
+Download [C&C3_XN_Maps](https://xevnet.au/f/C&C3_XN_Maps.rar) - A collection of multiplayer maps.
+
+Extract the contents of C&C3_XN_Maps.rar into `C:\Users\%username%\AppData\Roaming\Command & Conquer 3 Tiberium Wars\Maps\`
 
 ---
 

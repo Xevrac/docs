@@ -27,3 +27,8 @@ A support guide on how to join our Command & Conquer 3: Tiberium Wars multiplaye
 
 ### [Doom: Zandronum](/guides/doom)
 Install guide for Doom's modern engine Zandronum and multiplayer client, Doomseeker.
+
+---
+
+### [Star Wars: Battlefront 2 (2005)](/guides/swbf2)
+Install guide for Doom's modern engine Zandronum and multiplayer client, Doomseeker.

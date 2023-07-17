@@ -31,4 +31,4 @@ Install guide for Doom's modern engine Zandronum and multiplayer client, Doomsee
 ---
 
 ### [Star Wars: Battlefront 2 (2005)](/guides/swbf2)
-Install guide for Doom's modern engine Zandronum and multiplayer client, Doomseeker.
+An installation & support article for Star Wars: Battlefront 2 (2005).

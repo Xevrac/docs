@@ -1,5 +1,5 @@
 ---
-title: 'C&C: Generals Zero Hour'
+title: 'ℹ️ C&C: Generals Zero Hour'
 description: 'A support article for Command & Conquer: Generals Zero Hour'
 weight: 2
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'C&C 3: Tiberium Wars'
+title: 'ℹ️ C&C 3: Tiberium Wars'
 description: 'A support article for Command & Conquer 3: Tiberium Wars'
 weight: 3
 ---

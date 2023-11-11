@@ -1,5 +1,5 @@
 ---
-title: 'Star Wars: Battlefront 2 (2005)'
+title: 'ℹ️ Star Wars: Battlefront 2 (2005)'
 description: 'A support article for Star Wars: Battlefront 2 (2005)'
 weight: 5
 ---

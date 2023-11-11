@@ -1,5 +1,5 @@
 ---
-title: Hidden & Dangerous 2
+title: ℹ️ Hidden & Dangerous 2
 description: A support article for Hidden & Dangerous 2.
 weight: 1
 ---

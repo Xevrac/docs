@@ -1,5 +1,5 @@
 ---
-title: Xevlink
+title: ✅ Xevlink
 description: A simple link shortener. Xevlink is a derivative of Polr 2 and Antelope-Valley-College's fork.
 weight: 3
 ---
@@ -10,7 +10,7 @@ A simple link shortener. Xevlink is a derivative of Polr 2 and Antelope-Valley-C
 
 ### Direct links:
 
-- ### [https://xev.au](https://xev.au)
+- #### [https://xev.au](https://xev.au)
 
 ---
 

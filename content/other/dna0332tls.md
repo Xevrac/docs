@@ -1,5 +1,5 @@
 ---
-title: Telstra Smart Modem Gen3
+title: 🪛 Telstra Smart Modem Gen3
 description: A teardown guide and some technical analysis of the dna0332tls product, manufactured by Technicolor.
 weight: 3
 ---

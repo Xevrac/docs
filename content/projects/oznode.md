@@ -1,5 +1,5 @@
 ---
-title: OzNode
+title: 🚫 OzNode
 description: Blockchain node provider project supporting various crypto assets. Initially hosting a Cardano Node to support it’s infrastructure however OzNode is currently on hiatus as it's fate is currently undecided.
 weight: 5
 ---
@@ -10,7 +10,7 @@ Blockchain node provider project supporting various crypto assets. Initially hos
 
 ### Direct link:
 
-- ### [https://oznode.xevrac.com](https://oznode.xevrac.com)
+- #### 🚫 This project is on hiatus, or has been shelved.
 
 ---
 

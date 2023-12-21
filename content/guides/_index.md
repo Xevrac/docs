@@ -37,3 +37,8 @@ An installation & support article for Star Wars: Battlefront 2 (2005).
 
 ### [🚧️ Halo: Combat Evolved (2003)](/guides/haloce)
 An installation & support article for Halo: Combat Evolved (2003).
+
+---
+
+### [ℹ️ Alien versus Predator 2](/guides/avp2)
+The complete Alien versus Predator 2 guide.

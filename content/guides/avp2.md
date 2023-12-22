@@ -18,8 +18,8 @@ This guide will teach you how to set up and install Alien versus Predator 2. (AV
 
 In order to install and play Alien versus Predator 2 you must download the following: 
 
-- The `base` version of the game can be downloaded - [Here](https://avpunknown.com/avp2aio/avp2game/avp2_avp2ph_aio.exe.zip)
-- The `master server patch` in order to play multiplayer - [Here](https://avpunknown.com/avp2master/msp/avp2smsinstall_2.4.zip)
+- The `base` version of the game can be downloaded by following the link and clicking `DOWNLOAD HERE (627MB) EXE EDITION` - [Here](https://avpunknown.com/avp2aio/)
+- The `master server patch` in order to play multiplayer can be downloaded by following the link and clicking `DOWNLOAD ALIENS VS PREDATOR 2 - MASTER SERVER PATCH 2.4` - [Here](https://avpunknown.com/avp2aio/)
 
 ---
 

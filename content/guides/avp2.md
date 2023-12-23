@@ -66,7 +66,7 @@ In options menu, go to network and set your network speed to T3, this will ensur
 
 Now that everything is set up you can launch the game and go to the Multiplayer Internet, then Find games. 
 
-Wait for the list to refresh and then look for our server called `Xevnet.AVP2 - AUS - https://xevnet.au` or look for others if you desire.
+Wait for the list to refresh and then look for our server called `Xevnet.AVP - https://xevnet.au` or look for others if you desire.
 
 Before joining a server you can click the Player tab you can set your in-game name and change your character / class.
 Pay attention to the class weapons / abilities that each character has. You can change your character / class in game with F1 if you change your mind later.

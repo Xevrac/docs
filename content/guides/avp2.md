@@ -8,6 +8,10 @@ The complete Alien versus Predator 2 guide.
 
 ---
 
+> <b>Note:</b> ℹ️This guide is for Alien versus Predator 2 only, not the Primal Hunt edition.
+
+---
+
 ## Scope: 
 
 This guide will teach you how to set up and install Alien versus Predator 2. (AVP2) Additionally common troubleshooting steps, settings, controls and some pro-tips!
@@ -25,14 +29,14 @@ In order to install and play Alien versus Predator 2 you must download the follo
 
 ### Installing the game:
 
-<b>i.</b> Once you have downloaded the above prerequisites you should have two zip archives. `avp2_avp2ph_aio.exe.zip` and `avp2smsinstall_2.4.zip`
+<b>i.</b> Once you have downloaded the above prerequisites you should have two zip archives. `avp2_avp2ph_aio.exe.zip` (the full game) and `avp2smsinstall_2.4.zip` (the multiplayer patch)
 
 <b>ii.</b> Extract `avp2_avp2ph_aio.exe.zip`
 
 <b>iii.</b> Open the avp2 directory you have just extracted
 
 <b>iv.</b> Run the installation .exe located in the `Aliens vs. Predator 2 - Full Game` folder (take note of the installation path)
-- ℹ️ Note ignore the Primal Hunt edition
+- ℹ️ Reminder: Ignore the Primal Hunt edition
 
 <b>v.</b> Extract and run the v1.0.9.6 english patch - Called `avp2_en_096.zip` under the `Aliens vs. Predator 2 - 1.0.9.6 Updates` folder
 
@@ -44,7 +48,7 @@ In order to install and play Alien versus Predator 2 you must download the follo
 
 ### Patching the game for multiplayer:
 
-<b>i.</b> Open the `avp2smsinstall_2.4` archive and extract its contents
+<b>i.</b> Open the `avp2smsinstall_2.4.zip` archive and extract its contents - Reminder, this is the multiplayer match mentioned you will need earlier. 
 
 <b>ii.</b> Run the server master patch executable - `AvP2SMSInstall.exe`
 
@@ -85,7 +89,7 @@ You can quickly check if your game is experiencing this issue by looking at the 
 
 ### Common controls:
 
-You can review the controls for each species in the Options menu however here are some common ones below.
+You can review the controls for each species in the options menu however here are some common ones below.
 
 <b>Common</b>
 - F1 to enter class / team selection screen

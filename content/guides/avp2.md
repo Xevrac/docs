@@ -8,7 +8,7 @@ The complete Alien versus Predator 2 guide.
 
 ---
 
-> <b>Note:</b> ℹ️This guide is for Alien versus Predator 2 only, not the Primal Hunt edition.
+> <b>Note:</b> ℹ️ This guide is for Alien versus Predator 2 only, not the Primal Hunt edition.
 
 ---
 
@@ -48,7 +48,7 @@ In order to install and play Alien versus Predator 2 you must download the follo
 
 ### Patching the game for multiplayer:
 
-<b>i.</b> Open the `avp2smsinstall_2.4.zip` archive and extract its contents - Reminder, this is the multiplayer match mentioned you will need earlier. 
+<b>i.</b> Open the `avp2smsinstall_2.4.zip` archive and extract its contents - Reminder, this is the multiplayer patch you will need to install as mentioned earlier. 
 
 <b>ii.</b> Run the server master patch executable - `AvP2SMSInstall.exe`
 

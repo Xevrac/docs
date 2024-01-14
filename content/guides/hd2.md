@@ -26,14 +26,14 @@ In order to join a multiplayer game (<b>not LAN</b>) you will need to perform so
 
 <b>ii.</b> Open Notepad as administrator and navigate to `C:\Windows\System32\drivers\etc\hosts`. You will need to add the following entries:
 
-`89.166.9.246  key.gamespy.com`<br>
-`89.166.9.246  master.gamespy.com`<br>
-`89.166.9.246  master0.gamespy.com`<br>
-`89.166.9.246  hd2.available.gamespy.com`<br>
-`89.166.9.246  hd2.master.gamespy.com`<br>
-`89.166.9.246  hd2.ms14.gamespy.com`
+`49.12.47.251  key.gamespy.com`<br>
+`49.12.47.251 master.gamespy.com`<br>
+`49.12.47.251  master0.gamespy.com`<br>
+`49.12.47.251  hd2.available.gamespy.com`<br>
+`49.12.47.251  hd2.master.gamespy.com`<br>
+`49.12.47.251  hd2.ms14.gamespy.com`
 
-This will essentially redirect the hardcoded Gamespy domains from within the game, to an IP address we've specified. In this case, `89.166.9.246` is a 3rd party master server hosted in Finland on behalf of =Rpr=.
+This will essentially redirect the hardcoded Gamespy domains from within the game, to an IP address we've specified. In this case, `49.12.47.251` is a 3rd party master server hosted in Finland on behalf of =Rpr=.
 
 <b>iii.</b> Make sure your key is unique. Unfortunately if you purchased the GOG or Steam version of the game your key will be the same as every user on that platform. If you own the original, physical copy with genuine key skip this step!
 
@@ -83,15 +83,15 @@ In order to host a dedicated multiplayer match correctly in a Windows environmen
 
 <b>i.</b> Open Notepad as administrator and navigate to `C:\Windows\System32\drivers\etc\hosts`. You will need to add the following entries:
 
-`89.166.9.246  key.gamespy.com`<br>
-`89.166.9.246  master.gamespy.com`<br>
-`89.166.9.246  master0.gamespy.com`<br>
-`89.166.9.246  hd2.available.gamespy.com`<br>
-`89.166.9.246  hd2.master.gamespy.com`<br>
-`89.166.9.246  hd2.ms14.gamespy.com`<br>
-`89.166.9.246  natneg1.gamespy.com`<br>
-`89.166.9.246  natneg2.gamespy.com`<br>
-`89.166.9.246  natneg3.gamespy.com`
+`49.12.47.251  key.gamespy.com`<br>
+`49.12.47.251  master.gamespy.com`<br>
+`49.12.47.251  master0.gamespy.com`<br>
+`49.12.47.251  hd2.available.gamespy.com`<br>
+`49.12.47.251  hd2.master.gamespy.com`<br>
+`49.12.47.251  hd2.ms14.gamespy.com`<br>
+`49.12.47.251  natneg1.gamespy.com`<br>
+`49.12.47.251  natneg2.gamespy.com`<br>
+`49.12.47.251  natneg3.gamespy.com`
 
 *Notice the additional entries compared to just [joining a multiplayer game](/guides/hd2/#joining-a-multiplayer-game).*
 

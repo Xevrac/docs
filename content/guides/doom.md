@@ -57,7 +57,7 @@ In order to join multiplayer games you need the following.
 <b>iii.</b> Locate one of our servers in the server list. We recommend using the filter to refine results, once the client has fetched a list of servers look for server names like `[AUS] xevnet - {gamemode} - https://xevnet.au`.
 
 <b>iv.</b> Double-click our server to join - A WAD Seeker box will appear and automatically download the required [PWAD](https://doomwiki.org/wiki/PWAD) or [PK3](https://doomwiki.org/wiki/PK3) files to join. (These are add-ons and mods for the game)
-  - <i>Note: You can manually download our `PWAD` & `PK3` files if desired or if WAD Seeker is down via [our repository](https://doom.xevrac.com/wads/).</i>
+  - <i>Note: You can manually download our `PWAD` & `PK3` files if desired or if WAD Seeker is down via [our repository](https://doom.xevnet.au/wads/).</i>
 
 <b>v.</b> Once WAD Seeker has fetched the files you require (<i>or you have downloaded and manually defined</i>) your game will start using the configuration settings you set in Zandronum earlier. Congrats! Happy fragging!
 

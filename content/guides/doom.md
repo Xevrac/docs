@@ -19,7 +19,7 @@ This guide will teach you how to join Xevnet's Doom multiplayer lobbies when we'
 In order to join multiplayer games you need the following.
 
 - A stable internet connection
-- A <i>`Windows`, `Debian/Ubuntu/Mint`, `Mac OSX`</i> or <i>`Linux`</i> computer
+- A <i>`Windows`, `Debian/Ubuntu/Mint`, `MacOS`</i> or <i>`Linux`</i> computer
 - [Zandronum](https://zandronum.com/download) - `v3.1`
   - [Doomseeker](http://doomseeker.drdteam.org/) - <i><b>Note:</b> Doomseeker is bundled with `Windows` & `Mac OSX` and does not require separate download.</i>
 - A valid copy of all episodes (editions) for [Doom](https://store.steampowered.com/bundle/27490/DOOM_Classic_Bundle/) by ID Software

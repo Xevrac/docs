@@ -35,7 +35,7 @@ An installation & support article for Star Wars: Battlefront 2 (2005).
 
 ---
 
-### [🚧️ Halo: Combat Evolved (2003)](/guides/haloce)
+### [ℹ️ Halo: Combat Evolved (2003)](/guides/haloce)
 An installation & support article for Halo: Combat Evolved (2003).
 
 ---

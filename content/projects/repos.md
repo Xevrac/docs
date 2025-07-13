@@ -1,5 +1,5 @@
 ---
-title: ℹ GitHub
+title: ℹ Repos
 description: My GitHub profile containing my public and private projects.
 weight: 1
 ---

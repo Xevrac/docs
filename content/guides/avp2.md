@@ -92,20 +92,20 @@ You can quickly check if your game is experiencing this issue by looking at the 
 You can review the controls for each species in the options menu however here are some common ones below.
 
 <b>Common</b>
-- F1 to enter class / team selection screen
-- Enter for chat
-- \ for team chat
-- Left mouse primary fire
-- Right mouse secondary fire
-- Shift to crouch
-- Space to jump
-- WASD movement by default
-- Can do a high jump if you jump while crouched (except humans... unless they are in an exo-suit)
+- `F1` to enter class / team selection screen
+- `Enter` for chat
+- `\` for team chat
+- `Left mouse` primary fire
+- `Right mouse` secondary fire
+- `Shift` to crouch
+- `Space` to jump
+- `WASD` movement by default
+- Can do a high jump if you jump while crouched (except humans.. unless they are in an exo-suit)
 
 <b>Human</b>
-- Scroll wheel and numerical keys switch weapons
-- G is for flashlight
-- Alt. fire depends on what gun you're using
+- `Scroll wheel` and `numerical keys` to switch weapons
+- `G` is for flashlight
+- Secondary fire action depends on what gun you're using:
   - Pistol - switch to AP rounds
   - Shotgun - switch to shotgun slugs (AP no bullet spread)
   - Pulse Rifle - Lob grenade
@@ -116,20 +116,20 @@ You can review the controls for each species in the options menu however here ar
   - Sniper - Zooms in until release, press again to lower scope
 
 <b>Alien</b>
-- Left mouse is primary attack with claws
-- Right mouse is low damage tail attack that stuns
-- E is pounce attack
+- `Left mouse` is primary attack with claws
+- `Right mouse` is low damage tail attack that stuns
+- `E` is pounce attack
 - Holding crouch will put you into wall walking mode - you can climb anywhere except areas that would lead you off the map
 
 <b>Predator</b>
-- Q / E to switch weapons
-- F to retrieve disc
-- Mouse wheel zooms in and out
-- C is cloak
-- V / B is to cycle vision modes (blue to hunt humans / red to hunt aliens / white to hunt predators in FFA games, used for homing weapons)
-- T is to recharge your energy that cloaking and plasma weapons use (slows you down and is noisy, use in a safe place)
-- G is to heal yourself - uses majority of your energy, is loud and slows you down
-- Alt. fire depends on your weapon
+- `Q / E` to switch weapons
+- `F` to retrieve disc
+- `Mouse wheel` zooms in and out
+- `C` is cloak
+- `V / B` is to cycle vision modes (blue to hunt humans / red to hunt aliens / white to hunt predators in FFA games, used for homing weapons)
+- `T` is to recharge your energy that cloaking and plasma weapons use (slows you down and is noisy, use in a safe place)
+- `G` is to heal yourself - uses majority of your energy, is loud and slows you down
+- Secondary fire depends on your weapon
   - Claws - hold to charge a powerful strike
   - Spear - does a powerful vertical swipe
   - plasma pistol - lobs stun plasma in an arc
@@ -139,7 +139,7 @@ You can review the controls for each species in the options menu however here ar
 
 ---
 
-### Pro-Tips:
+### Context and tips:
 
 <b>Human</b>
 
@@ -213,18 +213,20 @@ Cloaking is useless against aliens
 
 ---
 
-### Key callouts when playing AVP2 Community Servers:
+### Key callouts:
 
-It is considered bad mannered to use plasma weapons for cheap kills
+When playing public AVP2 community servers:
 
-It's also bad mannered to pounce spam for cheap kills
+* It is considered bad mannered to use plasma weapons for cheap kills
 
-Don't use auto-targeting weapons as a human
+* It's also bad mannered to pounce spam for cheap kills
 
-Abusing the above will probably get you kicked
+* Don't use auto-targeting weapons as a human
+
+* Abusing the above will probably get you kicked
 
 ---
 
 ### Support:
 
-If you have clicked `Multiplayer Internet` and cannot see our server, please report it to us via our Support chat in [Discord](https://xevnet.au).
+If you have clicked `Multiplayer Internet` and cannot see our server, please report it to us via our #support chat in [Discord](https://xevnet.au).

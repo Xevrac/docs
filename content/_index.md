@@ -1,12 +1,12 @@
 ---
 title: Welcome
-description: A documentation repository containing guides and support articles for the Xevnet community. Additionally, it is home to other guides and projects from Xevrac.
+description: A documentation repository containing guides and support articles for the Xevnet community.
 
 ---
 
-Welcome to Xevnet_Docs!
+Welcome to Docs!
 
-A documentation repository containing guides and support articles for the Xevnet community. Additionally, it is home to other guides and projects from Xevrac.
+A documentation repository containing guides and support articles for the Xevnet community.
 ## Want to see more?
 
 ---
@@ -23,7 +23,3 @@ Projects both past and present.
 ### [Guides](/guides/)
 
 Setup guides: joining/hosting a game servers, performing tweaks or modifications and more.
-
-### [Other](/other/)
-
-Guides outside of Xevnet reside here. These are guides for other hobbies and side-projects.
